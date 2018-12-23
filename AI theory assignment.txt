@@ -1,0 +1,48 @@
+Exercises Theory Read chapter 1.1:
+(What is AI?) and chapter 2 (Intelligent Agents) of the textbook,
+1. Define in your own words the following terms: agent, agent function, agent program, rationality, autonomy, reflex agent, model-based agent, goal-based agent, utility-based agent, learning agent.
+2. Explain the difference between performance measure and the utility measure function.
+
+What is AI?
+The art science and engineering  of making  things that can think perceive and act as human beings and even better. 
+
+Agent:
+An agent is a person who represents an insurance firm and sells insurance policies on its behalf.
+
+Agent function: 
+The agent function, notionally speaking, takes as input the entire percept sequence up to that point.
+
+Agent program:
+The agent programs take the current percept as input from the sensors and return an action to the actuators.
+ 
+Rationality:
+An agent should strive to “do the right thing” based on what it can perceive and the actions it can perform the right action is the one that will cause the agent to be most successful.
+
+Autonomy?
+An autonomous agent is an intelligent agent operating on an owner's behalf but without any interference of that ownership entity.
+
+Reflex agent:
+We can summarize part of the table by formulating commonly occurring patterns as condition rules.
+
+Model-based agent:
+This knowledge about “how the world evolves” is called a model of the world, hence the name “model-based agent”.
+
+Goal-based agent:
+Goal-based agents further expand on the capabilities of the model-based agents, by using “goal” information.
+
+Utility-based agent:
+A utility-based agent makes decisions based on the maximum utility of its choices. In this lesson, you'll learn more about these intelligent agents and how they
+ interact with their environments.
+
+Learning agent:
+A learning agent is a tool in AI that is capable of learning from its experiences Unlike intelligent agents that act on information provided by a programmer learning agents are able to perform tasks, analyze performance and look for new ways to improve on those tasks.
+Explain the difference between performance measure and the utility measure function:
+Performance  measure functionUtility measure functionA performance measure  is used to evaluate the behavior of the agent in environment.A utility function is used by an agent itself to evaluate how desirable states are. Some paths to the goal are better  than others.Does agent do what it’s supposed to do vs. does agent do it in optimal way.The utility function may not be the same as the performance measure.whereas there is always a performance measure function.An agent may have no explicit utility function at all.So in general Performance measure is how we evaluate a agent behavior.utility function is a function internally used by the agent to evaluate its performance.They could be same in some cases but it's not necessarily true. Also a performance measure exists always.a utility function might not.
+
+
+
+
+
+ 
+
+
